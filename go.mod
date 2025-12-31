@@ -1,0 +1,3 @@
+module AP_Assignment2
+
+go 1.25
